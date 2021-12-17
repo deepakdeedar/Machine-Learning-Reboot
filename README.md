@@ -13,3 +13,5 @@ This repo contains all machine learning algorithms using python and scikit-learn
 - ## Support Vector Machines
 - ## Decision Tree
 - ## Random Forest
+  - ### Random Forest Classification
+  - ### Random Forest Regression
