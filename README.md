@@ -15,3 +15,4 @@ This repo contains all machine learning algorithms using python and scikit-learn
 - ## Random Forest
   - #### Random Forest Classification
   - #### Random Forest Regression
+- ## Boosting Methods
