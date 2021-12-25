@@ -1,6 +1,6 @@
 # Machine-Learning-Reboot
 
-This repo contains all machine learning algorithms using python and scikit-learn
+This repo contains all machine learning algorithms with EDA using python, scikit-learn, seaborn and matplotlib
 
 - # Supervised Learning
   - ## Feature Engineering
