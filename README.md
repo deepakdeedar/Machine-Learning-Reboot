@@ -19,3 +19,5 @@ This repo contains all machine learning algorithms with EDA using python, scikit
   - ## Boosting Methods
     - #### Ada Boost
     - #### Gradient Boosting
+
+  - ## Naive Bayes
